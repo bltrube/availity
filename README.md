@@ -17,7 +17,7 @@
     - Insurance Company (string)
 - Solution TL;DR:
     - CSVSorter.java is the entry point/main method.
-    - Grabs predetermined path for the CSV (enrollment.csv) in the input folder, passes path to FileManager.parseFile().
+    - Grabs paths for all files in the input folder, passes path to FileManager.parseFile().
     - FileManager.parseFile() takes each line from the file (excluding the header) and creates an EnrollmentProfile object for each one.
         - Somewhat overkill for this application, but would allow for us to do more with the EnrollmentProfiles if there was more to the app.
     - FileManger.parseFile() also does our duplicate checking, ensuring that we only have one of each userID per insuranceCompany before returning a map to the main method.
