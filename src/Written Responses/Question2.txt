@@ -1,2 +1,26 @@
-Prompt: Tell me about something you have read recently that you would recommend and why. (Can be a Github Repo, Article, Blog, Book, etc)
+Prompt: Tell me about something you have read recently that you would recommend and why. 
+(Can be a Github Repo, Article, Blog, Book, etc)
 
+https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
+
+I came across this blog post a while ago, and have come back to it a few times to be reminded of some
+of the points that are made in it. I think that this is worth reading because, in spite of the fact that
+most of the points made aren't groudbreaking, they are things that serve as a good reminder for developers
+both new and old.
+
+Some of the ones that I liked the most were:
+
+1: "I still don't know very much." This one spoke to me because it was reassuring to hear that people
+who have been at this a lot longer than me can still feel the self-doubt and "imposter syndrome" that can
+creep in at times. Everybody's experience is different, and a big part of being a developer is accepting
+what you don't know, and always being open to learning new things.
+
+4: "The best code is no code, or code you don’t have to maintain." If the only tool you have is a hammer,
+you tend to see every problem as a nail. It's really easy to try to dive straight in and write new code
+to fix everything, but some of my favorite tickets to get are the ones where I can find a solution that 
+doesn't require any code, and I'm glad that the author reminded the readers of this.
+
+16: "Software engineers should write regularly." This is something I don't do enough. I agree with the
+point he makes here: that having good written (and, in my opinion, verbal) communication skills is a very
+important part of being a developer. We are long past the days of the "basement dweller" stereotype, and
+being able to communicate effectively is a hallmark of a good developer in 2023.

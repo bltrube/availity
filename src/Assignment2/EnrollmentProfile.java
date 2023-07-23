@@ -1,5 +1,3 @@
-package Assignment2;
-
 public class EnrollmentProfile {
     private String userId;
     private String firstName;

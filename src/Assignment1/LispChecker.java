@@ -1,4 +1,3 @@
-package Assignment1;
 import java.util.ArrayDeque;
 import java.util.Arrays;
 import java.util.Deque;
@@ -19,6 +18,7 @@ public class LispChecker {
     }
 
     private static boolean validateString(final String lispString) {
+        //We'll default to true, as technically an empty string would be valid
         boolean isValid = true;
         
         if(!lispString.isEmpty() && !lispString.equals(null)) {

@@ -1,5 +1,3 @@
-package Assignment2;
-
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -72,7 +70,7 @@ public class FileManager {
 
             final List<EnrollmentProfile> profiles = groupMap.get(groupName);
 
-            File outputFile = new File("src\\Assignment2\\Output\\", fileName + "-output.csv");
+            final File outputFile = new File("src\\Assignment2\\Output", groupName + ".csv");
 
             try(PrintWriter writer = new PrintWriter(outputFile)) {
                 //Add the header line

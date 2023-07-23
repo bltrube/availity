@@ -1,2 +1,6 @@
 Prompt: How would you explain to your grandmother what Availity does?
 
+Availity connects healthcare providers with insurance companies and helps them with information
+about their patients. They streamline the process of gathering, tracking, and sending patient data,
+which helps them be more effienct with treating people. This helps with making sure that your insurance
+and providers are working together to ensure that your treament is effective and covered appropriately.

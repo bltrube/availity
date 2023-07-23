@@ -1,5 +1,3 @@
-package Assignment2;
-
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -36,7 +34,7 @@ public class CSVSorter {
                     if(result.size() > 0) {
                         System.out.println("Success!");
                         System.out.println("Created Files: " + result.toString());
-                        System.out.println("Generated files can be found in: src\\Assignment2\\Output");
+                        System.out.println("Generated files can be found in: availity/src/Assignment2/Output");
                     }
                     else {
                         //Something went wrong, no files were created

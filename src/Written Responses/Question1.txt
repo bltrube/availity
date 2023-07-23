@@ -1,2 +1,32 @@
 Prompt: Tell me about your proudest professional achievement.  It can also be a personal or school project. 
 
+One of the proudest achievements of my development career was, in reality, a small victory in the grand 
+scheme of things. 
+
+I was working on a project to update and build upon a feature that was effectively a 
+proof-of-concept written years ago, which had prematurely been pushed into production at the request of
+a customer, and which had never really worked right in the first place. This feature was very much a black
+box: the developers didn't really know much about it, QA didn't really know what to do with it, 
+and the client facing teams didn't really know much about it outside of undocumented knowledge gained from 
+troubleshooting it from the frontend over the years. Working with it was, in short, miserable - and 
+everyone avoided it as much as possible.
+
+When I was given this task, I decided that it was finally time that SOMEONE figured out what was going
+on with the feature. I worked with my product owner to ensure I had plenty of time for research and 
+documentation while reviewing the ticket in our planning meeting. I spent hours poring over the code,
+documenting along the way, trying to make sure I had as deep of an understanding as possible before diving
+into implementing anything. It was tedious, but at the end of the day it made the actual work easier for me.
+The documentation made it easier for other devs to understand it while working in that area of the 
+application in the future. I coached the QA team on how it worked, what to expect when looking it, and
+where to look when things were going wrong. When I finally got to writing code, I was able to
+not only fix up what was needed, but add some additional optimizations and identify areas which justified
+follow-up tickets. In the end, the entire team was able to walk away with a lot more knowledge and
+understanding of something that was previously a major pain point.
+
+I consider this to be one of my proudest professional achievements because it was, in my mind, one of the
+first times I made the step up from being a very green junior developer to something a bit more. I took 
+ownership of a feature, established myself as the subject matter expert, and distributed that knowledge 
+across several teams. I completed the ticket given to me, but was able to provide additional value to the 
+team which would help us greatly in the future. While it wasn't a glamorous achievement, it's something I 
+look back on fondly and use to remind myself of the benefits of pushing myself to be the best developer 
+and team member that I can be.
